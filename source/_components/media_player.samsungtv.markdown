@@ -63,6 +63,7 @@ Currently known supported models:
 - KU6290 (port must be set to 8001)
 - KU7000 (port must be set to 8001)
 - MU6170UXZG (port must be set to 8001, and `pip3 install websocket-client` must be executed)
+- MU6400U (port must be st to 8001, Turning on and off works fine as long as MAC address is added to configuration)
 - KS7502 (port must be set to 8001, and `pip3 install websocket-client` must be executed, turn on doesn't work, turn off works fine)
 - K5600AK (partially supported, turn on works but state is not updated)
 - UE65KS8005 (port must be set to 8001, On/Off, Forward/Backward, Volume are OK, but no Play button)
